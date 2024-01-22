@@ -4,4 +4,4 @@ Secrect: 4---physical---8---logical-unameresultsystem=Windows---node=DESKTOP-SFN
 4---physical---4---logical-unameresultsystem=Windows---node=DESKTOP-E52PBFL---release=10---version=10.0.19045---machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64---Family---6---Model---60---Stepping---3---GenuineIntel|fc
 4---physical---8---logical-unameresultsystem=Windows---node=DESKTOP-E0JS3JV---release=10---version=10.0.19045---machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64---Family---6---Model---60---Stepping---3---GenuineIntel|fc
 4---physical---8---logical-unameresultsystem=Windows---node=DESKTOP-MURU8UN---release=10---version=10.0.19045---machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64---Family---6---Model---60---Stepping---3---GenuineIntel|fc
-2---physical---4---logical-unameresultsystem=Windows---node=DESKTOP-I6UTJ1R---release=10---version=10.0.19045---machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64---Family---6---Model---78---Stepping---3---GenuineIntel|fc
+
